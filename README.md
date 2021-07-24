@@ -11,6 +11,11 @@
 [<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="izidiostefany@gmail.com" height='40' width='40'>](https://www.instagram.com/stefany.vitoria33/)
 [<img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" height='40' width='40'>](https://t.me/stefanyizidio)
 
+## Atividades
+
+![Stefany Izidio GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanyvitoria&show_icons=true&theme=dark)
+
+
 ## Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql" height='50' width='50'>
