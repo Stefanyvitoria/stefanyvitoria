@@ -1,8 +1,9 @@
-## Olá 👋
+## Olá, Mundo!👋
 
 ### Bem Vindo(a)! :relaxed:
 
-### Me chamo Stefany, entrei no mundo da programação em 2019 quando dei início a minha graduação na [UFRPE](http://www.ufrpe.br/br) em [Sistemas de informação](https://sites.google.com/view/bsi-ufrpe/home) e a cada dia me sinto mais encantada pela área. Atualmente estou no 4° período da graduação, tenho 19 anos e moro em Moreno-PE.
+### Me chamo Stefany, tenho 19 anos e sou de Pernambuco. 
+Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área.
 
 ## Você pode me encontrar em:
 
@@ -14,12 +15,3 @@
 ## Atividades
 
 ![Stefany Izidio GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanyvitoria&show_icons=true&theme=dark)
-
-
-## Skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql" height='50' width='50'>
-
-## Tecnologias que estou estudando
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height='50' width='50'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height='50' width='50'>
