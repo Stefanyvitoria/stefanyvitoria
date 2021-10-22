@@ -2,7 +2,7 @@
 
 ### Bem Vindo(a)! :relaxed:
 
-### Me chamo Stefany, tenho 19 anos e sou de Pernambuco. 
+### Me chamo Stefany, tenho 20 anos e sou de Pernambuco. 
 Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área.
 
 ## Você pode me encontrar em:
@@ -11,7 +11,17 @@ Entrei no mundo da programação em 2019 quando dei início a minha graduação 
 [<img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="izidiostefany@gmail.com" height='40' width='40'>](mailto:izidiostefany@gmail.com)
 [<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="izidiostefany@gmail.com" height='40' width='40'>](https://www.instagram.com/stefany.vitoria33/)
 [<img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" height='40' width='40'>](https://t.me/stefanyizidio)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height='40' width='40'>](https://wa.me/5581993510766)
 
-## Atividades
-
-![Stefany Izidio GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanyvitoria&show_icons=true&theme=dark)
+<details open>
+  <summary> <b>Github Stats</b>: </summary>
+  <br>
+  <p align="center">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=stefanyvitoria&count_private=true&show_icons=true&theme=dark"/>
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanyvitoria&langs_count=10&layout=compact&theme=dark"/>
+  </p>
+  <p align="center">
+    <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=stefanyvitoria.stefanyvitoria) />
+    <img align="center" src=https://img.shields.io/github/followers/stefanyvitoria?label=Follow&style=social)](https://github.com/stefanyvitoria) />
+  </p>
+</details open>
