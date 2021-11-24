@@ -20,8 +20,4 @@ Entrei no mundo da programação em 2019 quando dei início a minha graduação 
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=stefanyvitoria&count_private=true&show_icons=true&theme=dark"/>
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanyvitoria&langs_count=10&layout=compact&theme=dark"/>
   </p>
-  <p align="center">
-    <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=stefanyvitoria.stefanyvitoria) />
-    <img align="center" src=https://img.shields.io/github/followers/stefanyvitoria?label=Follow&style=social)](https://github.com/stefanyvitoria) />
-  </p>
 </details open>
