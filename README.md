@@ -1,17 +1,16 @@
 ## Olá, Mundo!👋
 
-### Bem Vindo(a)! :relaxed:
-
 ### Me chamo Stefany, tenho 20 anos e sou de Pernambuco. 
-Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área.
+Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área. Atualmente trabalho como Desenvolvedora Back-End.
 
 ## Você pode me encontrar em:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="izidiostefany@gmail.com" height='40' width='40'>](https://www.linkedin.com/in/stefany-izidio-086236187/)
-[<img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="izidiostefany@gmail.com" height='40' width='40'>](mailto:izidiostefany@gmail.com)
-[<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="izidiostefany@gmail.com" height='40' width='40'>](https://www.instagram.com/stefany.vitoria33/)
-[<img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" height='40' width='40'>](https://t.me/stefanyizidio)
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height='40' width='40'>](https://wa.me/5581993510766)
+<a href="https://www.linkedin.com/in/stefany-izidio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:izidiostefany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/stefany.vitoria33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5581993510766" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://t.me/stefanyizidio" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%231097B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
 
 <details open>
   <summary> <b>Github Stats</b>: </summary>
