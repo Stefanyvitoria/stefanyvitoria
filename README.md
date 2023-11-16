@@ -1,7 +1,7 @@
 ## Olá, Mundo!👋
 
-### Me chamo Stefany, tenho 21 anos e sou de Pernambuco/BR. 
-Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área. Atualmente trabalho como Desenvolvedora Back-End ma Accenture do Brasil e estou no 8 semestre da graduação.
+### Me chamo Stefany, tenho 22 anos e sou de Pernambuco/BR. 
+Entrei no mundo da programação em 2019 quando dei início a minha graduação e a cada dia me sinto mais encantada pela área. Atualmente trabalho como Desenvolvedora Back-End na Accenture do Brasil e estou no 10 (E ÚLTIMO) semestre da graduação.
 
 ## Você pode me encontrar em:
 
